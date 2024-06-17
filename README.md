@@ -15,7 +15,7 @@ This App Is Designed Such That if any input like invalid It WIll throw the "Inva
 5) UI Design
 6) Logic Building
 
-👨‍💻Check out the code of this project in the Master Branch
+👨‍💻Check out the code of this project in the Project1 Branch
 
 # Basic Projects Will the Path for Good Projects Believe
  
